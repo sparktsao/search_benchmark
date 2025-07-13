@@ -1,5 +1,7 @@
 # SimpleQA Benchmark Experiment: Comparing Search-Augmented vs Base Models
 
+![n8n](n8n.png)
+
 ## Overview
 
 This experiment evaluates the performance of different AI models and search-augmented approaches on the OpenAI SimpleQA benchmark dataset. We tested 135 questions from the benchmark to compare various model configurations and search integration strategies, revealing significant insights about the limitations of RAG systems and the importance of reasoning capabilities.
